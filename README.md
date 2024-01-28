@@ -1,19 +1,2 @@
-# natproj
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Made as an assignment in school about the use of drugs. It´s supposed to be a type of helpline type website with info about why it´s bad and with links to helplines in norway. 
+Made in norwegian. Viewable at github pages: https://erikskole.github.io/NaturfagProsjekt2023/
